@@ -1,24 +1,24 @@
-# star-wars-project
+# Star Wars
 
-## Project setup
+## How to run this project
+
+To run this project you need to download **NodeJS**. Once installed, run the following
+commands:
+
+* To install dependencies
+
 ```
-npm install
+npm i
 ```
 
-### Compiles and hot-reloads for development
+* To run project in development mode
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+* To create a deployable build
+
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
