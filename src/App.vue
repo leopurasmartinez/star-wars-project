@@ -1,7 +1,6 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">Character List</router-link>
   </div>
   <Toast
     v-if="store.state.isShowToast"
